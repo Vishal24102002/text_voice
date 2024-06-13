@@ -1,6 +1,6 @@
 # Text_To_Voice
 <p>
-It contain the files which i created for my friends to help them in there prject it can contain any type of project which where created by me but in a very short period of time
+It contain the files which i created for my friends to help them in there project it can contain any type of project which where created by me but in a very short period of time approx 3 months. 
 </p>
 <h2><b>Introduction</b></h2>
 <p>
