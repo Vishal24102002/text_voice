@@ -15,7 +15,7 @@ In today's fast-paced digital world, accessibility and convenience are paramount
 </ol>
 <h2><b>Screen-Shots</b></h2>
 <p align="center">
-<img style="height:350px;" src="images/sc.png" >
+<img style="height:350px;" src="images/sc.png" ><br>
 <b>GUI {Graphic User Interface}</b>
 </p>
 <h2><b>Thoughts</b></h2>
