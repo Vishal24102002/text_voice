@@ -8,7 +8,7 @@ In today's fast-paced digital world, accessibility and convenience are paramount
 </p>
 <h2><b>Screen-Shots</b></h2>
 <p align="center">
-<img style="height:50px;" src="images/sc.png" >
+<img style="height:350px;" src="images/sc.png" >
 </p>
 <h2><b>Thoughts</b></h2>
 <footer>
