@@ -4,5 +4,10 @@ It contain the files which i created for my friends to help them in there prject
 </p>
 <h2>Screen-Shots</h2>
 <p align="center">
-<img src="">
+<img src="images/sc.png">
 </p>
+<footer>
+  <p>
+    "Architecting robust and scalable backend systems, where data flows seamlessly and logic thrives."
+  </p>
+</footer>
